@@ -655,77 +655,77 @@ var upgradeJson = {
   334: {
     buildings: [
       100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100,
-      100, 100, 100,
+      100, 100, 100, 100,
     ],
     upgrades: [],
   }, // Milk chocolate butter biscuit
   335: {
     buildings: [
       150, 150, 150, 150, 150, 150, 150, 150, 150, 150, 150, 150, 150, 150, 150,
-      150, 150, 150,
+      150, 150, 150, 150,
     ],
     upgrades: [],
   }, // Dark chocolate butter biscuit
   336: {
     buildings: [
       200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200, 200,
-      200, 200, 200,
+      200, 200, 200, 200,
     ],
     upgrades: [],
   }, // White chocolate butter biscuit
   337: {
     buildings: [
       250, 250, 250, 250, 250, 250, 250, 250, 250, 250, 250, 250, 250, 250, 250,
-      250, 250, 250,
+      250, 250, 250, 250,
     ],
     upgrades: [],
   }, // Ruby chocolate butter biscuit
   400: {
     buildings: [
       300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300, 300,
-      300, 300, 300,
+      300, 300, 300, 300,
     ],
     upgrades: [],
   }, // Lavender chocolate butter biscuit
   477: {
     buildings: [
       350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350, 350,
-      350, 350, 350,
+      350, 350, 350, 350,
     ],
     upgrades: [],
   }, // Synthetic chocolate green honey butter biscuit
   478: {
     buildings: [
       400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400,
-      400, 400, 400,
+      400, 400, 400, 400,
     ],
     upgrades: [],
   }, // Royal raspberry chocolate butter biscuit
   479: {
     buildings: [
       450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450, 450,
-      450, 450, 450,
+      450, 450, 450, 450,
     ],
     upgrades: [],
   }, // Ultra-concentrated high-energy chocolate butter biscuit
   497: {
     buildings: [
       500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500, 500,
-      500, 500, 500,
+      500, 500, 500, 500,
     ],
     upgrades: [],
   }, // Pure pitch-black chocolate butter biscuit
   659: {
     buildings: [
       550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550, 550,
-      550, 550, 550,
+      550, 550, 550, 550,
     ],
     upgrades: [],
   }, // Cosmic chocolate butter biscuit
   699: {
     buildings: [
       600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600,
-      600, 600, 600,
+      600, 600, 600, 600,
     ],
     upgrades: [],
   }, // Butter biscuit (with butter)
