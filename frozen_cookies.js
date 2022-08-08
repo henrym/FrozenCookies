@@ -22,7 +22,7 @@ var baseUrl =  scriptElement !== null
     : "https://henrym.github.io/FrozenCookies/";
 var FrozenCookies = {
   baseUrl: baseUrl,
-  branch: "Main-",
+  branch: "Main",
   version: "2.0.0",
 };
 

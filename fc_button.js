@@ -293,12 +293,7 @@ function FCMenu() {
         .append(
           $("<div>")
             .addClass("section")
-            .text(
-              "Frozen Cookies v " +
-                FrozenCookies.branch +
-                "." +
-                FrozenCookies.version
-            )
+            .text("Frozen Cookies " + FrozenCookies.branch + "v" + FrozenCookies.version)
         ),
       subsection = $("<div>")
         .addClass("subsection")
