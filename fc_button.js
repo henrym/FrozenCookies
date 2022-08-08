@@ -13,7 +13,8 @@ $("#logButton").hide();
 $("<style>")
   .prop("type", "text/css")
   .text(
-    "#fcEfficiencyTable {width: 100%;}" +
+      "#fcEfficiencyTable {width: 100%;}" +
+      "#fcEfficiencyTable tr:not(.heading):not(.dividers):hover { background-color: #333; }" +
       "#fcButton {top: 0px; right: 0px; padding-top: 12px; font-size: 90%; background-position: -100px 0px;}" +
       ".worst {border-width:1px; border-style:solid; border-color:#330000;}" +
       ".bad {border-width:1px; border-style:solid; border-color:#660033;}" +
@@ -724,7 +725,7 @@ function FCMenu() {
     buildTable = $("<table>")
       .prop("id", "fcEfficiencyTable")
       .append(
-        $("<tr>").append(
+        $("<tr class=\"heading\">").append(
           $("<th>").text("Building"),
           $("<th>").text("Eff%"),
           $("<th>").text("Efficiency"),
@@ -750,8 +751,8 @@ function FCMenu() {
 
     // Table Dividers
     var dividers = [
-      $("<tr>").append($("<td>").attr("colspan", "5").html("&nbsp;")),
-      $("<tr>")
+      $("<tr class=\"dividers\">").append($("<td>").attr("colspan", "5").html("&nbsp;")),
+      $("<tr class=\"dividers\">")
         .css("border-top", "2px dashed #999")
         .append($("<td>").attr("colspan", "5").html("&nbsp;")),
     ];
